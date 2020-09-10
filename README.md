@@ -1,2 +1,2 @@
 # CS50_Deutsch
-Dient der Übersetzung aller CS50 Open Courseware Bestandteile
+Dient der Übersetzung aller CS50x Open Courseware Bestandteile
